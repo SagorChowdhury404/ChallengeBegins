@@ -1,0 +1,12 @@
+main {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.headBanner {
+    background-image: url(assets/Hero-bg.png);
+    text-align: center;
+    margin: 10px 0px;
+    padding: 20px 0px;
+}
